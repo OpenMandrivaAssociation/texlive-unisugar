@@ -6,7 +6,7 @@
 # catalog-version 0.92
 Name:		texlive-unisugar
 Version:	0.92
-Release:	7
+Release:	8
 Summary:	Define syntactic sugar for Unicode LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/xetex/latex/unisugar
