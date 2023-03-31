@@ -1,6 +1,6 @@
 Name:		texlive-unisugar
 Version:	22357
-Release:	1
+Release:	2
 Summary:	Define syntactic sugar for Unicode LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/xetex/latex/unisugar
